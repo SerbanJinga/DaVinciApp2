@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376881373835",
+    "firebase_url": "https://mysite-37135.firebaseio.com",
+    "project_id": "mysite-37135",
+    "storage_bucket": "mysite-37135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376881373835:android:2262270dff963959256a8e",
+        "android_client_info": {
+          "package_name": "com.roh44x.davinciapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376881373835-2490rmb6bm5h8r4i5vhnsv4p06drpjlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roh44x.davinciapp",
+            "certificate_hash": "adcf23817977b79e94dbebd69e819974b1df69dd"
+          }
+        },
+        {
+          "client_id": "376881373835-3eb4k2bu9au10p5sps8g134h7njugb24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKTxtxIcSRJrKhO6yihR25w58CQPlxWFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376881373835-3eb4k2bu9au10p5sps8g134h7njugb24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
